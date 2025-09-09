@@ -1,0 +1,44 @@
+{
+  "name": "quasar-pwa-countries",
+  "version": "0.0.1",
+  "description": "Demonstração PWA - offline ",
+  "productName": "Paises pwa - amostra",
+  "author": "Ivan <ivanrochacardoso@gmail.com>",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext .js,.vue ./",
+    "format": "prettier --write \"**/*.{js,vue,scss,html,md,json}\" --ignore-path .gitignore",
+    "test": "echo \"No test specified\" && exit 0",
+    "dev": "quasar dev",
+    "build": "quasar build",
+    "build:pwa": "quasar build --mode pwa"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.16.4",
+    "axios": "^1.2.1",
+    "quasar": "^2.8.0",
+    "vue": "^3.2.29",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "^1.4.3",
+    "autoprefixer": "^10.4.2",
+    "eslint": "^8.11.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-vue": "^9.0.0",
+    "postcss": "^8.4.14",
+    "prettier": "^2.5.1",
+    "workbox-build": "7.0.x",
+    "workbox-cacheable-response": "7.0.x",
+    "workbox-core": "7.0.x",
+    "workbox-expiration": "7.0.x",
+    "workbox-precaching": "7.0.x",
+    "workbox-routing": "7.0.x",
+    "workbox-strategies": "7.0.x"
+  },
+  "engines": {
+    "node": "^20 || ^18 || ^16",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
