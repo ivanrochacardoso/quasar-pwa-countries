@@ -79,7 +79,8 @@ Os arquivos prontos ficam em `dist/pwa`.
 ##  Screenshots
 
 ### App Online
-![App funcionando online no chrome](img_demo/im1.jpeg)
+
+<img src="img_demo/im1.jpeg" alt="App online" width="120">
 
 ### Instalando PWA no Android
 ![Instalando app](img_demo/im2.jpeg)
