@@ -26,7 +26,7 @@ PWA em produção funciona apenas com https
 
 1. Clone este repositório:
 ```bash
-   git clone https://github.com/seu-usuario/quasar-pwa-countries.git
+   git clone https://github.com/ivanrochacardoso/quasar-pwa-countries.git
    cd quasar-pwa-countries
 ```
 
