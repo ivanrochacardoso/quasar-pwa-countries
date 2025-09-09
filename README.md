@@ -83,11 +83,11 @@ Os arquivos prontos ficam em `dist/pwa`.
 <img src="img_demo/im1.jpeg" alt="App online" width="120">
 
 ### Instalando PWA no Android
-![Instalando app](img_demo/im2.jpeg)
+
 <img src="img_demo/im2.jpeg" alt="Instalando App" width="120">
 
 ### Modo Offline
-![App funcionando offline](img_demo/im5.jpeg)
+
 <img src="img_demo/im5.jpeg" alt="App funcionando offline" width="120">
 
 ---
