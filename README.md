@@ -96,7 +96,7 @@ Os arquivos prontos ficam em `dist/pwa`.
 
 Demonstração em `https://siglobal.com.br/paises/`
 
-Este projeto faz parte da série de conteúdos sobre **PWA e sistemas offline** que será publicado no blog e redes sociais do **Siescola**.
+Este projeto faz parte da série de conteúdos sobre **PWA e sistemas offline**.
 
 ---
 
